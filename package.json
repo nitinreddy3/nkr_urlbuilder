@@ -1,0 +1,19 @@
+{
+  "name": "nkr_urlbuilder",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "generator",
+    "REST"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nkr_urlbuilder": "^1.0.0"
+  }
+}
