@@ -8,12 +8,13 @@ Don't write:
 
  Use the snippet
 
+```javascript
   let url = '/someapi/users/{id}/details';
   let urlParams = {id: 123};
   let queryParams = {name: 'abc', age: 20 };
 
   buildRestUrl(url, urlParams, queryParams); //someapi/users/123/details?name='abc'&age=20&...
-
+```
 
 
 ## Installation
@@ -26,6 +27,7 @@ Don't write:
 
 ## Usage
 
+```javascript
 import { buildRestUrl } from 'nkr_urlbuilder';
 
 let url = '/someapi/users/{id}/details';
@@ -33,3 +35,4 @@ let url = '/someapi/users/{id}/details';
   let queryParams = {name: 'abc', age: 20 };
 
   buildRestUrl(url, urlParams, queryParams);
+```
