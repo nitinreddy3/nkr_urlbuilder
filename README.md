@@ -31,8 +31,8 @@ Don't write:
 import { buildRestUrl } from 'nkr_urlbuilder';
 
 let url = '/someapi/users/{id}/details';
-  let urlParams = {id: 123};
-  let queryParams = {name: 'abc', age: 20 };
+let urlParams = {id: 123};
+let queryParams = {name: 'abc', age: 20 };
 
-  buildRestUrl(url, urlParams, queryParams);
+buildRestUrl(url, urlParams, queryParams);
 ```
