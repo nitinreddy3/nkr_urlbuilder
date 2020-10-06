@@ -1,5 +1,5 @@
 {
-  "name": "nkr_urlbuilder",
+  "name": "@nitinreddy3/nkr_urlbuilder",
   "version": "1.0.10",
   "description": "URL generator for REST APIs on the front-end",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nitinreddy3/nkr_urlbuilder"
+    "url": "https://github.com/nitinreddy3/nkr_urlbuilder"
   },
   "homepage": "https://github.com/nitinreddy3/nkr_urlbuilder#readme",
   "keywords": [
@@ -19,6 +19,6 @@
   "author": "Nitin Reddy <reddynitin3@gmail.com> (https://nitinreddy3.xyz)",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/nitinreddy3"
   }
 }
