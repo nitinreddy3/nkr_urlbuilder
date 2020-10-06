@@ -6,12 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/nitinreddy3/nkr_urlbuilder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinreddy3/nkr_urlbuilder"
+  },
+  "homepage": "https://github.com/nitinreddy3/nkr_urlbuilder#readme",
   "keywords": [
     "url",
     "generator",
     "REST"
   ],
   "author": "Nitin Reddy <reddynitin3@gmail.com> (https://nitinreddy3.xyz)",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
