@@ -1,6 +1,6 @@
 {
   "name": "nkr_urlbuilder",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "URL generator for REST APIs on the front-end",
   "main": "index.js",
   "scripts": {
