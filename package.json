@@ -13,8 +13,5 @@
     "REST"
   ],
   "author": "Nitin Reddy <reddynitin3@gmail.com> (https://nitinreddy3.xyz)",
-  "license": "ISC",
-  "dependencies": {
-    "nkr_urlbuilder": "^1.0.0"
-  }
+  "license": "ISC"
 }
