@@ -36,3 +36,6 @@ let queryParams = {name: 'abc', age: 20 };
 
 const response = await fetch(buildRestUrl(url, urlParams, queryParams));
 ```
+
+**Note:**
+First step towards opensource contribution
